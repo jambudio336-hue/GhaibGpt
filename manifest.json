@@ -1,0 +1,17 @@
+{
+  "name": "GhaibGpt",
+  "short_name": "GhaibGpt",
+  "description": "Asisten AI tanpa sensor, berteman hantu Indonesia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05050a",
+  "theme_color": "#07070a",
+  "lang": "id",
+  "icons": [
+    { "src": "samsu.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "samsu.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "samsu.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
