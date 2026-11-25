@@ -1,4 +1,4 @@
-const CACHE = 'ghaibgpt-v1';
+const C='ghaibx-v3-single';
 const SHELL = ['./', './index.html', './samsu.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
